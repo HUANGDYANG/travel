@@ -20,7 +20,7 @@
 
 <script>
   import CommonGallary from 'common/gallary/Gallary'
-  import CommonFade from 'common/fade/Fadeanimation'
+  import CommonFade from 'common/fade/FadeAnimation'
 
   export default {
     name: "Banner",

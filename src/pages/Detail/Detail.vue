@@ -1,5 +1,5 @@
 <template>
-  <FadeAnimation>
+  <HomeFade>
     <div>
 
       <DetailBanner :sightName="sightName" :bannerImg="bannerImg" :gallaryImgs="gallaryImgs"></DetailBanner>
@@ -10,7 +10,7 @@
       <DetailComment :commentList="commentList"></DetailComment>
       <Footer></Footer>
     </div>
-  </FadeAnimation>
+  </HomeFade>
 </template>
 
 <script>
@@ -19,7 +19,7 @@
   import DetailList from './components/List'
   import DetailComment from './components/comment'
   import Footer from '../../common/footer/Footer'
-  import FadeAnimation from '../../common/fade/FadeAnimation'
+  import HomeFade from '../../common/fade/FadeAnimation'
   import axios from 'axios'
 
   export default {
@@ -39,7 +39,7 @@
       DetailList,
       DetailComment,
       Footer,
-      FadeAnimation
+      HomeFade
     },
     // mounted(){
     //   this.getDetailInfo()

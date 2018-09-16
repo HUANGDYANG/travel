@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import Home from '../pages/Home/Home'
 import City from '../pages/City/City'
 import Detail from '../pages/Detail/Detail'
+import Ticket from '../pages/Ticket/Ticket'
 
 
 Vue.use(Router)
@@ -21,6 +22,10 @@ export default new Router({
       path:'/detail/:id', //动态路由
       name: 'Detail',
       component: Detail
+    },{
+      path:'/Ticket/:id',
+      name:'Ticket',
+      component: Ticket
     }
   ],
 
