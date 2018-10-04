@@ -16,9 +16,12 @@ module.exports = {
       '/api' : {                            //表示此链接的api接口
         target: 'http://localhost:8080',    //1,改成ip加端口号(默认:80)
         pathRewrite: {                      //2，这个配置项删掉
-          '^/api' : 'static/mock'
+          '^/api' : '/static/mock'          //替换target中的请求地址
         }
       }
+      // '/api' : {
+      //   target: '192.168.1.101:63333'
+      // }
     },
 
     // Various Dev Server settings
@@ -52,7 +55,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',   //表示bilud后放到后端服务器的根路径
+    assetsPublicPath: './',   //表示bilud后放到后端服务器的根路径
 
     /**
      * Source Maps

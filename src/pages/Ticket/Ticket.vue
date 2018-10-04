@@ -28,7 +28,7 @@
     },
     methods: {
       getTicketInfo() {
-        axios.get('/api/ticket.json').then(
+        axios.get('api/ticket.json').then(
           this.getTicketInfoSucc
         )
       },
