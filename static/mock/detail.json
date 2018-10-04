@@ -1,0 +1,159 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "大连圣亚海洋世界(AAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_600x330_bf9c4904.jpg",
+    "gallaryImgs": [
+      "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_800x800_70debc93.jpg",
+      "http://img1.qunarzz.com/sight/p0/1709/76/7691528bc7d7ad3ca3.img.png_800x800_9ef05ee7.png"
+    ],
+    "categoryList": [
+      {
+        "id":1,
+        "title": "成人票",
+        "children": [
+          {
+            "title": "成人票【周末/节假日】",
+            "price": "320",
+            "children": [
+              {
+                "title": "【当天可订】广州长隆野生动物世界节假日成人票",
+                "time": "可订9月15日",
+                "price": "320"
+              },
+              {
+                "title": "【当天可订】广州长隆野生动物世界节假日成人票",
+                "time": "可订9月15日",
+                "price": "320"
+              },
+              {
+                "title": "【当天可订】广州长隆野生动物世界节假日成人票",
+                "time": "可订9月15日",
+                "price": "320"
+              },
+              {
+                "title": "【当天可订】广州长隆野生动物世界节假日成人票",
+                "time": "可订9月15日",
+                "price": "320"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id":2,
+        "title": "学生票",
+        "children": [
+          {
+            "title": "大学生票【周末/节假日】",
+            "price": "280",
+            "children": [
+              {
+                "title": "长隆野生动物世界特定日大学生票",
+                "time": "可订9月15日",
+                "price": "289"
+              },
+              {
+                "title": "长隆野生动物世界特定日大学生票",
+                "time": "可订9月15日",
+                "price": "289"
+              },
+              {
+                "title": "长隆野生动物世界特定日大学生票",
+                "time": "可订9月15日",
+                "price": "289"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id":3,
+        "title": "儿童票",
+        "children": [
+          {
+            "title": "成人票【周末/节假日】",
+            "price": "320",
+            "children": [
+              {
+                "title": "【当天可订】广州长隆野生动物世界节假日成人票",
+                "time": "可订9月15日",
+                "price": "320"
+              },
+              {
+                "title": "【当天可订】广州长隆野生动物世界节假日成人票",
+                "time": "可订9月15日",
+                "price": "320"
+              },
+              {
+                "title": "【当天可订】广州长隆野生动物世界节假日成人票",
+                "time": "可订9月15日",
+                "price": "320"
+              },
+              {
+                "title": "【当天可订】广州长隆野生动物世界节假日成人票",
+                "time": "可订9月15日",
+                "price": "320"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id":4,
+        "title": "特惠票",
+        "children": [
+          {
+            "title": "大学生票【周末/节假日】",
+            "price": "280",
+            "children": [
+              {
+                "title": "长隆野生动物世界特定日大学生票",
+                "time": "可订9月15日",
+                "price": "289"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "commentList":[
+      {
+        "id":1,
+        "score":4.5,
+        "username":"张三",
+        "time":"2015/9/9",
+        "content":" 参观故宫是来京必须要安排的行程，紫禁城的宏伟和惊艳超乎你想象，假装自己穿越时空，你走在乾隆皇帝走过的石板砖上，体验当年盛世的文化底蕴和奢华的生活～ 攻略1 提前网上购买门票，凭身份证直接进 攻略2 租讲解器，每个讲解器都是感应的，每个只讲解一遍，只有一个耳机，别想着两人共用的好事儿，哈哈哈 攻略3 周一闭馆，周末人居多，尽量安排工作日，若所有宫殿都想参观，就提早进去，不过我个人觉得没必要，参观代表性的中轴和个别妃子和慈禧的宫殿即可，建议预留至少大半天时间在里头 再来北京，还愿意去故宫~~",
+        "imgs":[
+          "https://imgs.qunarzz.com/piao/fusion/1804/44/fd5c764328e07802.jpg_228x168_df78c187.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg"
+        ]
+      },
+      {
+        "id":2,
+        "score":4.8,
+        "username":"李四",
+        "time":"2015/9/10",
+        "content":" 故宫一日本想踏踏实实在故宫做一整天的文化体验，去掉长龙一样的排队和累的不行提早“打道回府”实际在故宫内有效时间仅4小时……走马观花，人头传动，咔嚓、咔嚓……很多小朋友豆举着手机，可谓全民都是“摄影师”啊！虽然没看出啥门道来，但是感受还是满满滴，就连故宫的绿箩都显得那么有文化……",
+        "imgs":[
+         "https://imgs.qunarzz.com/p/tts4/1806/a0/78aa0ac9f38b4502.jpg_228x168_ccdf4d01.jpg",
+         "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+         "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+         "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+         "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+         "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+         "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+         "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg",
+         "https://imgs.qunarzz.com/piao/fusion/1804/fc/2f4df5e00ddda902.jpg_228x168_28badbc1.jpg"
+        ]
+      }
+    ]
+  }
+}
